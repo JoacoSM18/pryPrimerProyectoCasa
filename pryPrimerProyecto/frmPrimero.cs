@@ -16,5 +16,10 @@ namespace pryPrimerProyecto
         {
             InitializeComponent();
         }
+
+        private void frmPrimero_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
